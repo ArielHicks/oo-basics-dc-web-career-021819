@@ -12,4 +12,7 @@ attr_accessor :color, :size, :material, :condition
       @brand
     end
 
+    def cobble
+      puts "The shoe has been repaired"
+    end
 end
