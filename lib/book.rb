@@ -8,7 +8,7 @@ class Book
   end
 
   def turn_page
-    puts "Turning the page...wow, you're a fast reader!"
+    puts "Turning the page...wow, you read fast!"
   end
 
 end
